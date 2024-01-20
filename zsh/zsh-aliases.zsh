@@ -1,3 +1,3 @@
 alias ls='eza'
 alias pacs='pacman -Ss'
-alias paci='pacman -Syu'
+alias paci='sudo pacman -Sy'
